@@ -1,0 +1,3 @@
+﻿  major.cpp
+d:\visual_repos\01 c++ hello world\01 c++ hello world\major.cpp(32): warning C4172: 返回局部变量或临时变量的地址: w
+  01 C++ hello world.vcxproj -> D:\Visual_repos\01 C++ hello world\Debug\01 C++ hello world.exe
